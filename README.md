@@ -1,65 +1,83 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+<h1 align="center">
+Hi, I'm Josue!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+ <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-
-### ⚙️ &nbsp;GitHub Analytics
-
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<hr>
 
-<p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+```
+I-am-kayron987123@github
+-------------------------
+💻 I am a self taught Back End Developer
+📚 I am studying the fifth cycle of the Computer and Informatics at the Cibertec Institute in Peru
+📝 I have a strong interest in Programming
+🔭 Looking for pre-professional internships
+🌱 Learning about Java and getting the certificate
+🌟 Main language: Java
+🚩 Interested in mobile application development
+💖 In a complicated relationship with Neural Networks
+🎵 Love japanese songs
+```
+<hr>
+
+
+## 🛠️ My Favorite Tools
+
+### 👨‍💻 Programming Languages
+
+<p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Anosql"><img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-%2300C853.svg?logo=mongodb&logoColor=white"></a>
+
+### 🧰 Frameworks and Libraries
+
+<p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aspringboot"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=spring-boot&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahibernate"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%234D4D4D.svg?logo=hibernate&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Amaven"><img alt="Maven" src="https://img.shields.io/badge/Maven-%23C71A36.svg?logo=apache-maven&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Athymeleaf"><img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?logo=thymeleaf&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Alombok"><img alt="Lombok" src="https://img.shields.io/badge/Lombok-%23C42937.svg?logo=lombok&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aspringmvc"><img alt="Spring MVC" src="https://img.shields.io/badge/Spring%20MVC-%236DB33F.svg?logo=spring&logoColor=white"></a>
+</p>
+
+### 🗄️ Databases
+
+<p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Amysql"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asqlserver"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Amongodb"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white"></a>
+</p>
+
+### 💻 Software and Tools
+
+<p>
+    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aeclipse"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?logo=eclipse&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aintellij"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aspring-tools">
+      <img alt="Spring Tool Suite 4" src="https://img.shields.io/badge/Spring%20Tool%20Suite%204-6DB33F.svg?logo=spring&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Adbeaver"><img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-372923.svg?logo=dbeaver&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Awampserver"><img alt="WampServer" src="https://img.shields.io/badge/WampServer-FF4088.svg?logo=wampserver&logoColor=white"></a>
+</p>
+
+### 👨🏽‍💻 Workspace
+<p>
+    <a href="#"><img alt="Computadora" src="https://img.shields.io/badge/PC-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
 
+  </td>
+  </tr>
+</table>
