@@ -7,9 +7,9 @@ Hi, I'm Josue!
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
-
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+
 
 ```
 I-am-kayron987123@github
@@ -26,6 +26,13 @@ I-am-kayron987123@github
 ```
 <hr>
 
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/josue-alva-5840542a8/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:josuealva920@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+<hr>
 
 ## 🛠️ My Favorite Tools
 
