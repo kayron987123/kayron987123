@@ -21,7 +21,6 @@ I-am-kayron987123@github
 🌱 Learning about Java and planning to get the certificate
 🌟 Main language: Java
 🚩 Interested in mobile application development
-💖 In a complicated relationship with Neural Networks
 🎵 Love japanese songs
 ```
 <hr>
