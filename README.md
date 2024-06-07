@@ -40,8 +40,14 @@ I-am-kayron987123@github
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+</p>
+
+### 🗄️ Database Technologies
+
+<p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Anosql"><img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-%2300C853.svg?logo=mongodb&logoColor=white"></a>
+</p>
 
 ### 🧰 Frameworks and Libraries
 
