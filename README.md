@@ -16,9 +16,9 @@ I-am-kayron987123@github
 -------------------------
 💻 I am a self taught Back End Developer
 📚 I am studying the fifth cycle of the Computer and Informatics at the Cibertec Institute in Peru
-📝 I have a strong interest in Programming
+📝 I have a great interest in programming, especially Back-End development.
 🔭 Looking for pre-professional internships
-🌱 Learning about Java and getting the certificate
+🌱 Learning about Java and planning to get the certificate
 🌟 Main language: Java
 🚩 Interested in mobile application development
 💖 In a complicated relationship with Neural Networks
