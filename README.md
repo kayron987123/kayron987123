@@ -14,7 +14,7 @@ Hi, I'm Josue!
 ```
 I-am-kayron987123@github
 -------------------------
-💻 I am a self taught Back End Developer
+💻 I am a self taught Back End Java Developer
 📚 I am studying the sixth cycle of the Computer and Informatics at the Cibertec Institute in Peru
 📝 I have a great interest in programming, especially Back-End development.
 🔭 Looking for professional internships
