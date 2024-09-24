@@ -5,7 +5,7 @@ Hi, I'm Josue!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Java+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <hr>
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
@@ -15,13 +15,12 @@ Hi, I'm Josue!
 I-am-kayron987123@github
 -------------------------
 💻 I am a self taught Back End Developer
-📚 I am studying the fifth cycle of the Computer and Informatics at the Cibertec Institute in Peru
+📚 I am studying the sixth cycle of the Computer and Informatics at the Cibertec Institute in Peru
 📝 I have a great interest in programming, especially Back-End development.
-🔭 Looking for pre-professional internships
-🌱 Learning about Java and planning to get the certificate
+🔭 Looking for professional internships
+🌱 Learning about Java and planning to validate my technical career
 🌟 Main language: Java
 🚩 Interested in mobile application development
-🎵 Love japanese songs
 ```
 <hr>
 
