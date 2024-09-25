@@ -8,7 +8,7 @@ Hi, I'm Josue!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Java+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <hr>
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://media.licdn.com/dms/image/v2/D4D22AQEqbHiCNIyBGw/feedshare-shrink_1280/feedshare-shrink_1280/0/1727248484485?e=1730332800&v=beta&t=EUIY2ZTCfLaxyz8tP7lf1dTFNmxwG3D28aoxDjBenag" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 
 
 ```
