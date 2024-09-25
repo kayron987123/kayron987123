@@ -22,7 +22,7 @@ I-am-kayron987123@github
 🌟 Main language: Java
 🚩 Interested in mobile application development
 🌍 Basic English skills, with a willingness to improve my language proficiency.
-🎯My goal is to become a great developer and improve my skills in software architecture.
+🎯 My goal is to become a great developer and improve my skills in software architecture.
 
 ```
 <hr>
